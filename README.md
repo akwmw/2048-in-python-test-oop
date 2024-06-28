@@ -1,5 +1,6 @@
 # 2048-in-python-test-oop
-Introduction:
+Overview:
+This is a simple implementation of the popular 2048 game using Object-Oriented Programming (OOP) concepts in Python.
 
 this project orgialy is for  final project for cs 50
 
